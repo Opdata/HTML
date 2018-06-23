@@ -1,22 +1,28 @@
-﻿#여는 태그가 있으면 닫는 태그가 있다.
-<HTML>
-  <HEAD>
-    </HEAD>
-  <BODY>
-    </BODY>
-</HTML>  
+﻿
 
-#중첩되는 태그가 있다
-<HTML>
-  <HEAD>
-    <BODY>
-    </BODY>
-  </HEAD>
-</HTML>
+<!DOCTYPE html>
+: 문서 유형을 나타내며 브라우저가 웹 페이지를 올바르게 표시 할 수있게 도와준다.
 
-:HTML 문서의 시작과 끝을 나타냄
+<html> ... </html>
+:HTML 문서의 시작과 끝을 나타냄 HTML의 경우 시작 태그<html> , 중료 태그</html> 로 이루어진다.
+
+<head> ... </head>
 :HEAD 한국어를 지원할 것인지, 웹페이지의 제목이나, 작성자나 메타 데이터를 지정할때 쓰임
 
-<strong>HTML</strong>
+<body> ... </body>
+:눈에 보이는 페이지의 내용 포함
 
+<h1> ... </h1>
+:큰 제목 정의 <h2> ... 사이즈 별로 여러개 있음
+
+<p1> ... </p1>
+:문단을 정의
+
+<strong>HTML</strong>
 : HTML을 굵은글씨로
+
+<title>Page Title<title>
+:Page Title 을 탭 이름으로
+
+<u>HTML</u>
+:Under Bar
