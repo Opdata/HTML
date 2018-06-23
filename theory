@@ -1,7 +1,7 @@
 ﻿
 
 <!DOCTYPE html>
-: 문서 유형을 나타내며 브라우저가 웹 페이지를 올바르게 표시 할 수있게 도와준다.
+:문서 유형을 나타내며 브라우저가 웹 페이지를 올바르게 표시 할 수있게 도와준다.
 
 <html> ... </html>
 :HTML 문서의 시작과 끝을 나타냄 HTML의 경우 시작 태그<html> , 중료 태그</html> 로 이루어진다.
@@ -19,7 +19,7 @@
 :문단을 정의
 
 <strong>HTML</strong>
-: HTML을 굵은글씨로
+:HTML을 굵은글씨로
 
 <title>Page Title<title>
 :Page Title 을 탭 이름으로
