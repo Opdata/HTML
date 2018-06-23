@@ -1,6 +1,7 @@
 # HTML-Self-Study
 
-HTML 자료
+HTML(Hyper Text Markup Language) 자료
+
 
 ----------------------
 OS : Windows 10
