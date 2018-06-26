@@ -15,3 +15,5 @@ Site
 https://www.w3schools.com/html/html_intro.asp
 https://opentutorials.org/course/3084
 https://www.inflearn.com
+https://www.advancedwebranking.com/html
+https://unsplash.com

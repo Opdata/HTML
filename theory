@@ -1,6 +1,4 @@
-﻿
-
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 :문서 유형을 나타내며 브라우저가 웹 페이지를 올바르게 표시 할 수있게 도와준다.
 
 <html> ... </html>
@@ -13,10 +11,10 @@
 :눈에 보이는 페이지의 내용 포함
 
 <h1> ... </h1>
-:큰 제목 정의 <h2> ... 사이즈 별로 여러개 있음
+:제목 정의 <h1> ... <h6> 사이즈 별로 여러개 있음
 
-<p1> ... </p1>
-:문단을 정의
+<p> ... </p>
+:paragraph 약자로 문단을 정의 , <p> 반복사용 의미 없음, 단독 사용 가능 br 태그의 남용을 피하기위해 p태그의 옵션을 사용
 
 <strong>HTML</strong>
 :HTML을 굵은글씨로
@@ -26,3 +24,36 @@
 
 <u>HTML</u>
 :Under Bar
+
+<br>
+:줄 바꿈, 반복 과 단독 사용 가능
+
+<img src = "image.jpg" width = "100%" or width = "크기">
+: 사진 및 속성
+
+<li> ... </li>
+: 한글의 목차 같은 리스트
+
+<ul> ... </ul>
+: Unodred list / 그룹화를 할때 씀 li의 상위
+
+<ol> ... </ol>
+:Ordered list / 목차 넘버링
+
+<a href = "site link" target = "_blank" > ... </a 
+: <a> Anchor / 문서를 링크시키기위해 사용
+: href(hyperText reference) 연결할 주소 지정 속성
+링크는 절대주소와 상대 주소, 다른 형식의 URL 로 나뉨
+절대주소 : www.~ 와 같은 주소 사이트
+상대주소 : 2.html
+다른 형식의 URL : ftp: ...
+
+: target 링크를 클릭시 창을 어떻게 열지 속성
+_self 연결문서를 클릭한 창에서(기본값)
+_blank 새창에서 
+_parent 부모창에서 , 부모가없으면 self
+_top 가장 상위 창에서 , 부모가없으면 self
+frame name 지정된 프레임 안에서
+
+<meta charset = "utf-8">
+:utf-8 형식으로 인코딩
