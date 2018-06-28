@@ -12,8 +12,8 @@ Git 사용
 -----------------------
 
 Site
-https://www.w3schools.com/html/html_intro.asp
-https://opentutorials.org/course/3084
-https://www.inflearn.com
-https://www.advancedwebranking.com/html
-https://unsplash.com
+https://www.w3schools.com/html/html_intro.asp<br>
+https://opentutorials.org/course/3084<br>
+https://www.inflearn.com<br>
+https://www.advancedwebranking.com/html<br>
+https://unsplash.com<br>
