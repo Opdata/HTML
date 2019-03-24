@@ -6,9 +6,8 @@ HTML(Hyper Text Markup Language) 자료
 ----------------------
 OS : Windows 10
 
-Edit : Atom
+Edit : VScode
 
-Git 사용
 -----------------------
 
 Site
