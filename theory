@@ -1,4 +1,8 @@
-﻿<!DOCTYPE html>
+HyperText Markup Language
+하이퍼텍스트 - 링크를 클릭해 다른 문서나 사이트로 즉시 이동할 수 있는 기능
+마크업 - 태그(tag)를 사용해 문서에서 링크를 표시하는 것
+ 
+<!DOCTYPE html>
 :문서 유형을 나타내며 브라우저가 웹 페이지를 올바르게 표시 할 수있게 도와준다.
 
 <html> ... </html>
