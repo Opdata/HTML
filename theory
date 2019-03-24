@@ -12,7 +12,14 @@ HyperText Markup Language
 :화면에는 보이지 않지만 알아야 할 정보들을 입력하는 부분
 :HEAD 한국어를 지원할 것인지, 웹페이지의 제목이나, 작성자나 메타 데이터를 지정할때, 문서에서 사용할 외부 파일들 링크에 쓰임
 
+<meta charset = "utf-8">
+:utf-8 형식으로 인코딩
 
+<meta name="description" content="사이트에 대한 짧은 설명 부분">
+:문서에 대한 간단한 설명, 검색결과에 사이트 설명으로 표시
+
+<title>Page Title<title>
+:Page Title 을 탭 이름으로
 
 <body> ... </body>
 :눈에 보이는 페이지의 내용 포함
@@ -25,9 +32,6 @@ HyperText Markup Language
 
 <strong>HTML</strong>
 :HTML을 굵은글씨로
-
-<title>Page Title<title>
-:Page Title 을 탭 이름으로
 
 <u>HTML</u>
 :Underline
@@ -64,9 +68,6 @@ _blank 새창에서
 _parent 부모창에서 , 부모가없으면 self
 _top 가장 상위 창에서 , 부모가없으면 self
 frame name 지정된 프레임 안에서
-
-<meta charset = "utf-8">
-:utf-8 형식으로 인코딩
 
 <iframe> ... </iframe>
 : html 웹 문서안에 또 다른 웹문서를 넣거나 동영상을 넣을 수 있음
