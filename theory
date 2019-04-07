@@ -31,10 +31,17 @@ HyperText Markup Language
 :paragraph 약자로 문단을 정의 , <p> 반복사용 의미 없음, 단독 사용 가능 br 태그의 남용을 피하기위해 p태그의 옵션을 사용
 
 <strong>HTML</strong>
-:HTML을 굵은글씨로
+:HTML을 굵은글씨로 
+
+<b> ... </b>
+:내용을 굵게 
 
 <u>HTML</u>
 :Underline
+
+<i>기울여표시할내용</i>
+<em>기울여강조할내용</em>
+: 표시와 강조의차이 (시각적 차이 X)
 
 <hr>
 :주제를 분리하기위해 사용(시각적으로 수평선 그림)
@@ -50,6 +57,9 @@ HyperText Markup Language
 
 <ul> ... </ul>
 : Unodred list / 그룹화를 할때 씀 li의 상위
+
+<ul><li>리스트</li></ul>
+:그릅화해서 리스트
 
 <ol> ... </ol>
 :Ordered list / 목차 넘버링
@@ -77,3 +87,38 @@ ex)
       src = "https://youtu.be/tZooW6PritE"
       frameborder = "0" allowfullscreen></iframe>
 -> 가로세로 400 , 유투브링크, 테두리 지우기, 풀스크린 허용
+
+<q>인라인레벨인용</q>
+
+<blockquote> 블록단위 인용<blockquote>
+
+<pre>입력하는거 화면에 그대로 출력</pre>
+//소리로 읽어주는 기계나 점자기계는 그냥 넘어가버려서 접근성 고려해야함
+
+<code>코드일부를 표시할때 사용</code>
+// 폰트는 모노스페이스
+
+<mark>형광펜 효과</mark>
+
+<span>줄바꿈없이 영역묶기</span>
+<div>블록단위로 영역묶기</div>
+
+<ruby>내용<rt> 주석 <rt></ruby>
+:글자들에 주석을 같이 표기하고싶을떄
+
+<abbr title="XXXYYY">XY</abbr>
+:title 속성에 약자의 뜻을 넣으면, 마우스를 위에 올리면 그 뜻이 나옴
+
+<kbd>키보드입력을나타냄</kbd>
+
+<small>부가정보처럼작게텍스트표시</small>
+
+<sub>아래 첨자</sub>
+:h2o 에서 2를 작게표시할떄
+
+<sup>아래 첨자</sup>
+:h2o 에서 2를 크게표시할떄
+
+<s>텍스트에 취소선 그을떄</s>
+:타자체 이며 2point 작아짐
+
