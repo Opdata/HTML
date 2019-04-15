@@ -74,9 +74,16 @@ HyperText Markup Language
 3. reversed 속성 - 역순으로 표시
 
 
+<dl>,<dt>,<dd>
+: description list / 제목, 설명 리스트
 
-
-
+ex)
+<dl>
+ <dt>올레 1코스</dt>     // 제목
+ <dd>코스 : 시흥초등</dd> // 설명
+ <dt>올레 2코스</dt>     // 제목
+ <dd>코스 : 광치기 해변</dd> // 설명
+<dl>
 
 
 <a href = "site link" target = "_blank" > ... </a 
